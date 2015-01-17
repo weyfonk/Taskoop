@@ -1,2 +1,2 @@
 # Taskoop
-A simple HTML table generator for task splitting, meant as a Python learning project.
+A simple schedule generator for task splitting, meant as a Python learning project.
