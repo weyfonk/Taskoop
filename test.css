@@ -1,0 +1,16 @@
+table {
+  border-collapse: collapse;
+}
+
+td { 
+  display: table-cell;
+  vertical-align: center;
+  text-align: center; 
+  padding: 5px;
+}
+
+.rowHeader {
+  vertical-align: inherit;
+  text-align: left; 
+  padding: 5px;
+}
